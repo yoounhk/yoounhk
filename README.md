@@ -1,5 +1,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yoounhk&hide=commits&show_icons=true&hide_rank=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yoounhk&hide=commits&show_icons=true&hide_rank=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoounhk&layout=compact)" />
